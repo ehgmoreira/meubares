@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525020967173",
+    "project_id": "meubares",
+    "storage_bucket": "meubares.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525020967173:android:1de0acaa1b48ab867ec76c",
+        "android_client_info": {
+          "package_name": "com.example.meubar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4G5BiUaj3m668lWJ1fan8fIdRpuy0Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525020967173:android:1cea6b480b1c058c7ec76c",
+        "android_client_info": {
+          "package_name": "com.meubares"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4G5BiUaj3m668lWJ1fan8fIdRpuy0Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
